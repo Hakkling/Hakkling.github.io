@@ -16,7 +16,7 @@ function loaded(){
 
 var x = 0;
 
-var titleText = ["$", "$ m", "$ me", "$ meg", "$ megu", "$ megum", "$ megumi", "$ megumin", "$ megumin.", "$ megumin.t", "$ megumin.te", "$ megumin.tea", "$ megumin.team", "$ megumin.tea",  "$ megumin.te",  "$ megumin.t", "$ megumin.", "$ megumin", "$ megumi", "$ megum",  "$ megu",  "$ meg",  "$ me", " $ m"];
+var titleText = ["$", "$ a", "$ an", "$ ani", "$ anim", "$ anime", "$ anime.", "$ anime.t", "$ anime.te", "$ anime.tea", "$ anime.team", "$ anime.tea", "$ anime.te", "$ anime.t",  "$ anime.",  "$ anime", "$ anim", "$ ani", "$ an", "$ a"];
 
 function loop(){
 
